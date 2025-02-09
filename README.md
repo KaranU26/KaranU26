@@ -1,7 +1,7 @@
 Hi 👋 My name is Karandeep Ubhi
 ===============================
 
-Software Engineer
+Full-Stack Software Engineer
 -----------------
 
 I have been passionate about coding for 7-8 years. It all started when I started my BTech program in Software Development. Ever since then I have grown quite a bit in this field. I started professionally in this field as an intern at my current company. Through my tenure there I moved up from being an intern being brought on full-time as a Junior Software Engineer, and now being promoted to a Software Engineer. I specialize in working with Ruby on Rails, Javascript, Jquery, HTML, CSS, BootStrap 5, PostgreSQL, React, Typescript, and C++
